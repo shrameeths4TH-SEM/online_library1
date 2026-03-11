@@ -1,4 +1,4 @@
-importt java.util.Scanner;
+import java.util.Scanner;
 class sum
   {
     public static void main(String args[])
